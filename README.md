@@ -14,3 +14,10 @@ After thoroughly reading the document, I planned out on how I would layout the p
 The coding for the rest of the program was quite simple as I was already provided the calculations for the results.
 
 ## Instructions
+### To Use Application
+1. **Download** the `Back-End Technical Test.exe` file located in `IPGMediaBrandTechTest/Debug`.
+2. **Open** the file using a Windows PC.
+3. The application will prompt the user to enter data.
+
+## To View Source Code
+The main cpp file is located in `IPGMediabrandTechTest/Back-End Technical Test/Back-End Technical Test.cpp`
