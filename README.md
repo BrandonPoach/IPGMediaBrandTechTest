@@ -19,5 +19,5 @@ The coding for the rest of the program was quite simple as I was already provide
 2. **Open** the file using a Windows PC.
 3. The application will prompt the user to enter data.
 
-## To View Source Code
+### To View Source Code
 The main cpp file is located in `IPGMediabrandTechTest/Back-End Technical Test/Back-End Technical Test.cpp`
