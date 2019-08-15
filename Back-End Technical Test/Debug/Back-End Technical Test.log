@@ -1,0 +1,7 @@
+﻿  Back-End Technical Test.cpp
+c:\users\brandon\source\repos\back-end technical test\back-end technical test\back-end technical test.cpp(97): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\brandon\source\repos\back-end technical test\back-end technical test\back-end technical test.cpp(100): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\brandon\source\repos\back-end technical test\back-end technical test\back-end technical test.cpp(103): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\brandon\source\repos\back-end technical test\back-end technical test\back-end technical test.cpp(107): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\brandon\source\repos\back-end technical test\back-end technical test\back-end technical test.cpp(116): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Back-End Technical Test.vcxproj -> C:\Users\Brandon\source\repos\Back-End Technical Test\Debug\Back-End Technical Test.exe
